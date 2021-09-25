@@ -1,0 +1,132 @@
+[29/Jul/21 06:04:33] -root-4488-[DEBUG]--aniket
+[29/Jul/21 06:06:09] -root-2756-[DEBUG]--aniket
+[29/Jul/21 06:06:12] -root-2756-[ERROR]--division by zero
+[29/Jul/21 06:07:00] -root-5876-[DEBUG]--aniket
+[29/Jul/21 06:07:05] -root-5876-[ERROR]--division by zero
+Traceback (most recent call last):
+  File "e:/aniket mate/python_logger/plogger.py", line 24, in <module>
+    print(inp1 / inp2)
+ZeroDivisionError: division by zero
+[29/Jul/21 06:10:43] -root-6108-[INFO]--Task Started
+[29/Jul/21 06:10:43] -root-6108-[DEBUG]--aniket
+[29/Jul/21 06:10:47] -root-6108-[DEBUG]--first number:- 10
+[29/Jul/21 06:10:47] -root-6108-[DEBUG]--second number:- 0
+[29/Jul/21 06:10:47] -root-6108-[ERROR]--division by zero
+Traceback (most recent call last):
+  File "e:/aniket mate/python_logger/plogger.py", line 27, in <module>
+    print(inp1 / inp2)
+ZeroDivisionError: division by zero
+[29/Jul/21 06:23:10] -__main__-3168-[DEBUG]--this is debug level
+[29/Jul/21 06:23:10] -__main__-3168-[INFO]--this is info level
+[29/Jul/21 06:23:10] -__main__-3168-[WARNING]--this is warning level
+[29/Jul/21 06:23:10] -__main__-3168-[ERROR]--this is error level
+[29/Jul/21 06:23:10] -__main__-3168-[CRITICAL]--this is critical level
+[29/Jul/21 06:24:09] -__main__-4892-[ERROR]--this is error level
+[29/Jul/21 06:24:09] -__main__-4892-[CRITICAL]--this is critical level
+[29/Jul/21 06:25:00] -__main__-4152-[ERROR]--this is error level
+[29/Jul/21 06:25:00] -__main__-4152-[CRITICAL]--this is critical level
+[29/Jul/21 06:25:11] -__main__-4104-[DEBUG]--this is debug level
+[29/Jul/21 06:25:11] -__main__-4104-[INFO]--this is info level
+[29/Jul/21 06:25:11] -__main__-4104-[WARNING]--this is warning level
+[29/Jul/21 06:25:11] -__main__-4104-[ERROR]--this is error level
+[29/Jul/21 06:25:11] -__main__-4104-[CRITICAL]--this is critical level
+2021-07-29 18:27:41,540--[DEBUG]--this is debug level
+[29/Jul/21 06:27:41] -__main__-5776-[DEBUG]--this is debug level
+2021-07-29 18:27:41,541--[INFO]--this is info level
+[29/Jul/21 06:27:41] -__main__-5776-[INFO]--this is info level
+2021-07-29 18:27:41,541--[WARNING]--this is warning level
+[29/Jul/21 06:27:41] -__main__-5776-[WARNING]--this is warning level
+2021-07-29 18:27:41,541--[ERROR]--this is error level
+[29/Jul/21 06:27:41] -__main__-5776-[ERROR]--this is error level
+2021-07-29 18:27:41,542--[CRITICAL]--this is critical level
+[29/Jul/21 06:27:41] -__main__-5776-[CRITICAL]--this is critical level
+[30/Jul/21 08:23:00] -__main__-4664-[DEBUG]--this is debug level
+[30/Jul/21 08:23:00] -__main__-4664-[INFO]--this is info level
+[30/Jul/21 08:23:00] -__main__-4664-[WARNING]--this is warning level
+[30/Jul/21 08:23:00] -__main__-4664-[ERROR]--this is error level
+[30/Jul/21 08:23:00] -__main__-4664-[CRITICAL]--this is critical level
+[30/Jul/21 08:25:55] -__main__-2904-[DEBUG]--this is debug level
+[30/Jul/21 08:25:55] -__main__-2904-[INFO]--this is info level
+[30/Jul/21 08:25:55] -__main__-2904-[WARNING]--this is warning level
+[30/Jul/21 08:25:55] -__main__-2904-[ERROR]--this is error level
+[30/Jul/21 08:25:55] -__main__-2904-[CRITICAL]--this is critical level
+[30/Jul/21 08:26:22] -__main__-1872-[DEBUG]--this is debug level
+[30/Jul/21 08:26:22] -__main__-1872-[INFO]--this is info level
+[30/Jul/21 08:26:22] -__main__-1872-[WARNING]--this is warning level
+[30/Jul/21 08:26:22] -__main__-1872-[ERROR]--this is error level
+[30/Jul/21 08:26:22] -__main__-1872-[CRITICAL]--this is critical level
+[30/Jul/21 08:27:30] -__main__-4696-[DEBUG]--this is debug level
+[30/Jul/21 08:27:30] -__main__-4696-[INFO]--this is info level
+[30/Jul/21 08:27:30] -__main__-4696-[WARNING]--this is warning level
+[30/Jul/21 08:27:30] -__main__-4696-[ERROR]--this is error level
+[30/Jul/21 08:27:30] -__main__-4696-[CRITICAL]--this is critical level
+[30/Jul/21 08:28:07] -__main__-4676-[DEBUG]--this is debug level
+[30/Jul/21 08:28:07] -__main__-4676-[INFO]--this is info level
+[30/Jul/21 08:28:07] -__main__-4676-[WARNING]--this is warning level
+[30/Jul/21 08:28:07] -__main__-4676-[ERROR]--this is error level
+[30/Jul/21 08:28:07] -__main__-4676-[CRITICAL]--this is critical level
+[30/Jul/21 08:30:56] -__main__-2360-[DEBUG]--this is debug level
+[30/Jul/21 08:30:56] -__main__-2360-[INFO]--this is info level
+[30/Jul/21 08:30:56] -__main__-2360-[WARNING]--this is warning level
+[30/Jul/21 08:30:57] -__main__-2360-[ERROR]--this is error level
+[30/Jul/21 08:30:57] -__main__-2360-[CRITICAL]--this is critical level
+[30/Jul/21 08:31:25] -__main__-5804-[DEBUG]--this is debug level
+[30/Jul/21 08:31:25] -__main__-5804-[INFO]--this is info level
+[30/Jul/21 08:31:25] -__main__-5804-[WARNING]--this is warning level
+[30/Jul/21 08:31:26] -__main__-5804-[ERROR]--this is error level
+[30/Jul/21 08:31:26] -__main__-5804-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:47] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:47] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:47] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:47] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:47] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:48] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:48] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:48] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:48] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:48] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:49] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:49] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:49] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:49] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:49] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:50] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:50] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:50] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:50] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:50] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:51] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:51] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:51] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:51] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:51] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:52] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:52] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:52] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:52] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:52] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:53] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:53] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:53] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:53] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:53] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:54] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:54] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:54] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:54] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:54] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:55] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:55] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:55] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:55] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:55] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 08:47:56] -__main__-3812-[DEBUG]--this is debug level
+[30/Jul/21 08:47:56] -__main__-3812-[INFO]--this is info level
+[30/Jul/21 08:47:56] -__main__-3812-[WARNING]--this is warning level
+[30/Jul/21 08:47:56] -__main__-3812-[ERROR]--this is error level
+[30/Jul/21 08:47:56] -__main__-3812-[CRITICAL]--this is critical level
+[30/Jul/21 09:00:07] -__main__-3132-[DEBUG]--this is debug level
+[30/Jul/21 09:00:07] -__main__-3132-[INFO]--this is info level
+[30/Jul/21 09:00:07] -__main__-3132-[WARNING]--this is warning level
+[30/Jul/21 09:00:07] -__main__-3132-[ERROR]--this is error level
+[30/Jul/21 09:00:07] -__main__-3132-[CRITICAL]--this is critical level

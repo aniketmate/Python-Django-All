@@ -1,0 +1,30 @@
+init gets called when at the time object creation Automatically magic method
+first argument reserved self
+self points to current object holds object ref
+u can define instance variables?  by using self keyword
+u can use any alternate name instead of self BUT preferred self
+instance  seperate copy for each object  
+static variable class level variable 
+local instance access, declare, modify, delete instance variable
+class method access, declare, modify, delete static variable
+if instance var defined same name as static -- takes init variable
+declare inside class and outside method
+access inside class and outside method but after declaring
+in init, by using self if instance var defined same name as static takes init variable
+outside the class,  by using classname
+in init, access the static variable by using classname classname.static_variable_name
+in instance method, using self 
+in instance method, using classname classname.static_variable_name
+outside the class, if we try to modify the static variable using object reference/reference variable
+it wil create a new attribute for that object
+ inside the class, if we try to modify the static variable using self
+it wil create a new attribute for that object
+in init, we can modify the static variable using classname classname.static_variable_name new_name
+in instance method, we can modify the static variable using classname classname.static_variable_name new_name
+	
+	
+	
+	
+	
+	
+	my name is aniket

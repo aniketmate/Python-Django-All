@@ -1,0 +1,5 @@
+Assignements:- 1-- timeline -- 13/06/21-- eod -- 
+
+- list, set, dictionary, string, -- functions -- class me define
+- class listoperation:
+	"""perform all built in methods for list"""
